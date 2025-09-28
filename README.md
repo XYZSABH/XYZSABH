@@ -4,7 +4,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xyzsabh&label=Profile%20views&color=0e75b6&style=flat" alt="xyzsabh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/DevSubhamBehera" target="blank"><img src="https://img.shields.io/twitter/follow/DevSubhamBehera?logo=twitter&style=for-the-badge" alt="DevSubhamBehera" /></a> </p>
+<p align="left"> 
+  <a href="https://x.com/DevSubhamBehera" target="_blank">
+    <img src="https://img.shields.io/badge/follow%20%40DevSubhamBehera-1DA1F2?logo=x&logoColor=white&style=for-the-badge" alt="DevSubhamBehera on X" />
+  </a> 
+</p>
+
 
 - 🌱 I’m currently learning **Unreal Engine 5,Unity**
 
